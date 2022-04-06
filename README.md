@@ -1,7 +1,7 @@
 # Assignment-1
 
 
-Using **Git Bash** to:
+## Using **Git Bash** to:
 - [ ] Create branch
 - [x] Create README.md file
 - [x] Commit changes
