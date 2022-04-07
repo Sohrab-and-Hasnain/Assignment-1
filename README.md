@@ -15,4 +15,4 @@ Using `Git Bash` to:
 - [x] Write importance of README
 - [x] Write importance of gitignore
 
-By @sohrabahmed and @mohd-hasnain
+By <a href="https://github.com/sohrabahmed" title="Sohrab's profile">*Sohrab Ahmed*</a> and <a href="https://github.com/mohd-hasnain" title="Hasnain's profile">*Md Hasnain*</a>
