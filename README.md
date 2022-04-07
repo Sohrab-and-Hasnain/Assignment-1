@@ -1,4 +1,4 @@
-# Assignment-1
+# Assignment-1 :notebook_with_decorative_cover:
 
 Using `Git Bash` to:
 - [x] Create branch
@@ -12,5 +12,5 @@ Using `Git Bash` to:
 - [x] Force commit
 - [x] Reset force commit
 - [x] Stage development branch to production branch
-- [ ] Write importance of README
+- [x] Write importance of README
 - [ ] Write importance of gitignore
