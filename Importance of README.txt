@@ -1,4 +1,4 @@
-Readme’s provide an introduction to the files contained in the repository and gives other developers a detailed description of your GitHub project.
+Readme files provide an introduction to the files contained in the repository and gives other developers a detailed description of your GitHub project.
 The readme file is used to explain what is uploaded and how we can install or use it.n unsaid thing about readme files is that it even helps your future self. 
 For example: If, for some reason, a bug was found a few months after you have left the project, and the company or the team asks you to fix it.
 You are completely out of touch and have no clue where to start looking. A readme file comes in handy in this scenario.
