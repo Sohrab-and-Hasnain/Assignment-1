@@ -1,6 +1,6 @@
 # Assignment-1
 
-Using **Git Bash** to:
+Using `Git Bash` to:
 - [x] Create branch
 - [x] Create branch
 - [x] Create README.md file
@@ -12,4 +12,5 @@ Using **Git Bash** to:
 - [x] Force commit
 - [x] Reset force commit
 - [x] Stage development branch to production branch
-- [ ] Write Importance of README.txt
+- [ ] Write importance of README
+- [ ] Write importance of gitignore
