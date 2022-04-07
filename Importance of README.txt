@@ -3,6 +3,8 @@ The readme file is used to explain what is uploaded and how we can install or us
 For example: If, for some reason, a bug was found a few months after you have left the project, and the company or the team asks you to fix it.
 You are completely out of touch and have no clue where to start looking. A readme file comes in handy in this scenario.
 
+A good readme file helps your present and future self, contributors as well as users.
+
 A readme file should be:
 Up-to-date: A readme file should be regularly updated to not conflict with what is uploaded to the repository. 
 Detailed: The readme file should not miss out on any information. It should contain all the necessary details necessary to understand what the project is about and how to use it.
