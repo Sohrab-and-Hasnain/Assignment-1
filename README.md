@@ -13,4 +13,6 @@ Using `Git Bash` to:
 - [x] Reset force commit
 - [x] Stage development branch to production branch
 - [x] Write importance of README
-- [ ] Write importance of gitignore
+- [x] Write importance of gitignore
+
+By @sohrabahmed and @mohd-hasnain
