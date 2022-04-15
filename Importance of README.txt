@@ -9,3 +9,5 @@ A readme file should be:
 Up-to-date: A readme file should be regularly updated to not conflict with what is uploaded to the repository. 
 Detailed: The readme file should not miss out on any information. It should contain all the necessary details necessary to understand what the project is about and how to use it.
 Self Explanatory: The user shouldn’t need to refer to some other article to understand your readme file.
+
+Adding last line for force commit to main branch
